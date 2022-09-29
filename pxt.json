@@ -1,8 +1,10 @@
 {
-    "name": "mrMacD",
+    "name": "mrMacDv0.2",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "sprite-scaling": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.1.0"
     },
     "files": [
         "main.blocks",
